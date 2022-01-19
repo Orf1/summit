@@ -1,0 +1,4 @@
+# Project exclude paths
+/summit-client/.gradle/
+/summit-server/.gradle/
+/summit-server/build/
